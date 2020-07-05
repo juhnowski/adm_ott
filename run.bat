@@ -1,0 +1,1 @@
+java -jar target\adm_ott-1.0-jar-with-dependencies.jar
